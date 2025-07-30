@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70.086884mm"
+   height="40.034599mm"
+   viewBox="0 0 70.086884 40.034599"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="practice-名片.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="1.4378367"
+     inkscape:cx="119.9719"
+     inkscape:cy="22.255657"
+     inkscape:window-width="1172"
+     inkscape:window-height="1032"
+     inkscape:window-x="874"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient26"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d50720;stop-opacity:0.881657;"
+         offset="0"
+         id="stop26" />
+      <stop
+         style="stop-color:#91222e;stop-opacity:1;"
+         offset="1"
+         id="stop27" />
+    </linearGradient>
+    <rect
+       x="239.9438"
+       y="259.41751"
+       width="167.88052"
+       height="39.712788"
+       id="rect8" />
+    <rect
+       x="238.55283"
+       y="226.72951"
+       width="137.73582"
+       height="23.969667"
+       id="rect7" />
+    <rect
+       x="246.8987"
+       y="255.94005"
+       width="96.673012"
+       height="18.77821"
+       id="rect6" />
+    <rect
+       x="239.24831"
+       y="233.6844"
+       width="110.58279"
+       height="19.4737"
+       id="rect5" />
+    <rect
+       x="236.46635"
+       y="191.95505"
+       width="138.03839"
+       height="29.737286"
+       id="rect4" />
+    <rect
+       x="234.37988"
+       y="189.86858"
+       width="94.58654"
+       height="32.687996"
+       id="rect3" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#393965;stop-opacity:0.88235295;"
+         offset="0.51855725"
+         id="stop2" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="36.408657"
+       y1="63.979553"
+       x2="59.989376"
+       y2="64.34758"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4,0,0,1,-9.2005213,0.52916667)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26"
+       id="linearGradient27"
+       x1="54.100372"
+       y1="64.773232"
+       x2="59.620819"
+       y2="79.678436"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.965374,-43.956676)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#360b00;fill-opacity:0.881657;stroke-width:0.264999;stroke-dasharray:none"
+       x="116.0654"
+       y="86.008102"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.265"
+         x="116.0654"
+         y="86.008102" /></text>
+    <g
+       id="g27"
+       transform="matrix(0.99876029,0,0,0.99913581,0.06194253,0.03798694)">
+      <rect
+         style="fill:url(#linearGradient3);stroke-width:0.313552;stroke-dasharray:none"
+         id="rect2"
+         width="70"
+         height="40"
+         x="50.052261"
+         y="43.956676" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.28376645,-0.00356672,0.00154852,0.28375544,8.3502982,-1.6994934)"
+         id="text3"
+         style="font-size:17.4045px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#0c1d11;fill-opacity:0.945098;stroke-width:1.00157;stroke-dasharray:none"
+         x="-50.221443"
+         y="0"><tspan
+           x="236.4668"
+           y="207.83373"
+           id="tspan2"><tspan
+             style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start"
+             id="tspan1">NICOLE ZHENG</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,12.721333,-1.1449813)"
+         id="text6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);fill:#0c1d10;fill-opacity:0.937255;stroke-width:1.00157;stroke-dasharray:none"
+         x="-34.867901"
+         y="0"><tspan
+           x="238.55273"
+           y="239.94156"
+           id="tspan4"><tspan
+             style="font-weight:bold;text-align:start;text-anchor:start"
+             id="tspan3">Project Manager</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,12.625387,0)"
+         id="text8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);fill:#0b1c11;fill-opacity:0.956863;stroke-width:1.00157;stroke-dasharray:none"><tspan
+           x="239.94336"
+           y="271.428"
+           id="tspan5">nicole.zheng@osmoar.com
+</tspan><tspan
+           x="239.94336"
+           y="288.09462"
+           id="tspan6">www.osmoar.com</tspan></text>
+      <path
+         style="fill:url(#linearGradient27);fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+         d="m 50.030432,43.979938 5.985436,0.06506 13.597348,39.946276 -19.647842,-0.06506 z"
+         id="path12" />
+      <path
+         style="fill:#041607;fill-opacity:0.881657;stroke-width:0.264999;stroke-dasharray:none"
+         d="m 55.933,43.98 16.101301,0.09201 -8.832712,21.253717 z"
+         id="path25" />
+      <rect
+         style="fill:#c50c27;fill-opacity:0.984314;stroke-width:0.264999;stroke-dasharray:none"
+         id="rect25"
+         width="42.288403"
+         height="0.81099999"
+         x="75.858887"
+         y="64.148254" />
+    </g>
+  </g>
+</svg>
